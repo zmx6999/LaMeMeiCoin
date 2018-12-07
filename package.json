@@ -1,0 +1,30 @@
+{
+  "name": "lamemeicoin",
+  "version": "1.0.0",
+  "description": "Simple Etheruem Token Following ERC20",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.36",
+    "ganache-cli": "^6.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmx6999/LaMeMeiCoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmx6999/LaMeMeiCoin/issues"
+  },
+  "homepage": "https://github.com/zmx6999/LaMeMeiCoin#readme"
+}
