@@ -1,7 +1,7 @@
 {
-  "name": "lamemeicoin",
+  "name": "190207",
   "version": "1.0.0",
-  "description": "Simple Etheruem Token Following ERC20",
+  "description": "",
   "main": "compile.js",
   "directories": {
     "test": "test"
